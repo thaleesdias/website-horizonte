@@ -56,6 +56,9 @@ temp/
 *.swp
 *.swo
 
+# Local agent instructions
+AGENTS.md
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -73,4 +76,3 @@ service-account*.json
 .netlify/
 .wrangler/
 .turbo/
-
