@@ -58,6 +58,7 @@ temp/
 
 # Local agent instructions
 AGENTS.md
+docs/PROJECT_NOTES.md
 
 # OS files
 .DS_Store
