@@ -1,4 +1,4 @@
-# Hospeda## 🌐 Acesse o projeto
+# 🌐 Acesse o projeto
 
 https://horizontecredito.vercel.app
 
